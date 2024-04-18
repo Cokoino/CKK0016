@@ -1,11 +1,5 @@
 # CKK0016
 Cokoino Mechanical Robot Claw
-# Contact us:
-- Email: cokoino@outlook.com
-
-# Technical support
-- Email: cokoino@outlook.com
-
 # How to download the Tutorial documents
 
 - Click the "Code" button, then click "Download ZIP" button in the pop-up window. 
@@ -15,3 +9,8 @@ Cokoino Mechanical Robot Claw
 - You will get a "CKK0015-main"ZIP file in your computer when the download task is finished,
 - ! Unzip the ZIP file instead of opening the file in the ZIP file directly.
 - ! Do not move, delete or rename files in the folder just unzipped.
+# Contact us:
+- Email: cokoino@outlook.com
+
+# Technical support
+- Email: cokoino@outlook.com
